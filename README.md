@@ -25,13 +25,13 @@ Análisis completo del embudo de conversión de MercadoLibre para identificar  p
 6. 🟤 **Info Pago** → `add_payment_info`
 7. 🔴 **Conversión** → `purchase`
 
-8. ## 📊 Hallazgos Principales
-- **Mayor caída**: [X]% entre [select_item] y [add_to_cart]
-- **Retención D7**: [X]% de usuarios activos
+8. ## 🔎 Hallazgos Principales
+- **Mayor caída**: [65.88]% entre [select_item] y [add_to_cart]
+- **Retención D7**: [87.7]% de usuarios activos
 - **País con mejor conversión**: [Uruguay]
+- **Dispositivo más efectivo**: [mobile]
 
-## 🎯 Recomendaciones Estratégicas
+## 📝 Recomendaciones Estratégicas
 - Optimizar proceso de [etapa crítica]
 - Implementar notificaciones push para retención D7
 - Personalizar experiencia por país/dispositivo
-- [Otras recomendaciones específicas]
