@@ -32,6 +32,6 @@ Análisis completo del embudo de conversión de MercadoLibre para identificar  p
 - **Dispositivo más efectivo**: [mobile]
 
 ## 📝 Recomendaciones Estratégicas
-- Optimizar proceso de [etapa crítica]
+- Optimizar proceso de [select_item] y [add_to_cart]
 - Implementar notificaciones push para retención D7
 - Personalizar experiencia por país/dispositivo
